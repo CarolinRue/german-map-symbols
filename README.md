@@ -1,2 +1,2 @@
 # german-map-icons
-A collection of icons especially for maps from german-speaking countries 
+An adaptable collection of icons especially for maps of the German-speaking area 
