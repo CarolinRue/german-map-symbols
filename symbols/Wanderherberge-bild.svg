@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Wanderherberge-bild.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title13">Wanderherberge_bildhaft</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Wanderherberge_bildhaft</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect30"
+     style="fill:#000000;stroke-width:1.02417"
+     d="M 7.2702236,1.1890745 C 5.1970425,5.3074947 3.1230357,9.4255049 1.0491964,13.543599 0.92225908,13.795662 1.0494353,14 1.3332515,14 H 13.666723 c 0.283816,0 0.411012,-0.204348 0.284098,-0.456423 C 11.877362,9.4252951 9.8036805,5.3071233 7.7298296,1.1890357 7.6028916,0.93697245 7.3971205,0.93699085 7.2702236,1.1890745 Z M 4.6735668,8.3868841 c 0.2838208,0 0.5120273,0.2284554 0.5111006,0.5102753 -0.00169,0.5114625 -2.876e-4,1.0194027 0.00128,1.5308666 8.658e-4,0.281816 0.2315925,0.510274 0.5154087,0.510274 h 1.541684 A 0.51389466,0.51028327 0 0 0 7.7569347,10.428017 V 9.4074507 A 0.51389466,0.51028327 0 0 1 8.2708294,8.8971674 h 1.5758097 c 0.2838159,0 0.7399049,0.077517 0.9459759,0.2675447 0.103963,0.095868 0.202094,0.2074202 0.288976,0.3212712 0.171176,0.2243143 0.272606,0.6602127 0.272606,0.9420337 V 12.46915 A 0.51389466,0.51028327 0 0 1 10.840303,12.979433 0.51389466,0.51028327 0 0 1 10.326408,12.46915 0.51389466,0.51028327 0 0 0 9.8125134,11.958867 H 5.7013561 A 0.51389466,0.51028327 0 0 0 5.1874615,12.46915 0.51389466,0.51028327 0 0 1 4.6735668,12.979433 0.51389466,0.51028327 0 0 1 4.1596721,12.46915 V 8.8971674 A 0.51389466,0.51028327 0 0 1 4.6735668,8.3868841 Z m 1.8055033,0.5601301 c 0.5328791,0.00262 0.9617377,0.3457573 0.9606952,0.7674037 -5.127e-4,0.4158961 -0.4190574,0.7548611 -0.9422645,0.7651831 -0.012864,2.54e-4 -0.033708,2.73e-4 -0.046549,4.6e-5 -0.5205317,-0.0093 -0.9398885,-0.343857 -0.9462481,-0.7564764 -7.46e-5,-0.00484 -8.89e-5,-0.012649 -3.31e-5,-0.017454 0.00486,-0.4183623 0.4345062,-0.7570971 0.9646223,-0.7587122 0.00271,-8.3e-6 0.00709,-4.1e-6 0.00977,9.2e-6 z" />
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Quelle-bild.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <title
+     id="title12">Quelle_bildhaft</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Quelle_bildhaft</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path8-0"
+     style="fill:#000000;stroke-width:1.18864"
+     d="M 4.114219,1.02643 C 2.529248,1.2279458 1.2722589,2.3643059 1.0338072,3.8053804 0.9887331,4.0777841 0.988735,4.5292166 1.0337884,4.801559 1.2721866,6.2426525 2.5291446,7.3790471 4.1141028,7.580609 4.3913504,7.615867 4.8470491,7.615683 5.124173,7.5800036 5.392185,7.5454976 5.6551298,7.4837156 5.908064,7.3958243 c 0.2636152,-0.091603 0.5878365,-0.00848 0.7243155,0.2326152 0.00427,0.00754 0.00855,0.015127 0.012819,0.022737 0.1356134,0.2415024 0.3237916,0.6493603 0.4444269,0.8985924 0.199472,0.4121088 0.4319252,0.8418354 0.7754483,1.2443196 0.1800525,0.2109565 0.5150776,0.5154885 0.7418575,0.6768605 0.4521423,0.321735 0.9366747,0.53936 1.3989148,0.725694 0.258752,0.104305 0.681127,0.266957 0.938349,0.37537 0.297792,0.125511 0.565906,0.25016 0.788886,0.378347 0.241166,0.138642 0.577708,0.445335 0.734316,0.673502 0.134574,0.196064 0.265592,0.429554 0.397368,0.688374 0.125622,0.246735 0.278248,0.554712 0.341004,0.687764 l 0.581418,-0.531977 c 0.205173,-0.187725 0.277637,-0.54396 0.147806,-0.788619 C 13.779476,12.38634 13.598535,12.09215 13.360784,11.810307 13.181936,11.59829 12.847318,11.29315 12.620872,11.13132 12.169166,10.808507 11.685631,10.590599 11.22384,10.404176 10.965141,10.299741 10.542771,10.137084 10.285414,10.028985 9.9871455,9.9037011 9.7183427,9.7795053 9.4947679,9.651713 9.2532584,9.5136694 8.9161251,9.2076389 8.7589503,8.9798481 8.6240785,8.784381 8.4923857,8.5513556 8.3602463,8.2929606 8.2341824,8.0464461 8.0455647,7.638991 7.9185744,7.3928727 7.8327606,7.2265579 7.7401456,7.0575225 7.6383953,6.8883341 7.495664,6.6510031 7.5234088,6.3059506 7.6815486,6.0784146 7.9511306,5.6905328 8.1292806,5.2555797 8.2046083,4.8015455 8.2497877,4.5292291 8.2497029,4.0778371 8.2046496,3.8054946 7.9662514,2.3644014 6.7092936,1.2280069 5.1243357,1.0264449 4.8470882,0.99118674 4.3914036,0.99118829 4.114219,1.02643 Z" />
+</svg>

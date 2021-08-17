@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8">
+  <title
+     id="title11">Bergwerk_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bergwerk_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect8"
+     style="fill:#000000;stroke-width:1.04083"
+     d="M 4.9324434,1.4954151 3.5675566,11.504585 A 0.57280917,0.57280917 138.88258 0 1 3,12 L 1.5,12 A 0.5,0.5 135 0 0 1,12.5 v 1 A 0.5,0.5 45 0 0 1.5,14 h 3 A 0.57280917,0.57280917 138.88258 0 0 5.0675566,13.504585 L 6.4324434,3.4954151 A 0.57280917,0.57280917 138.88258 0 1 7,3 H 8 C 8.2761424,3 8.5282122,3.2220731 8.5637091,3.4959244 8.9961464,6.8320916 9.5039043,10.168258 9.9363363,13.504426 9.9718077,13.778084 10.223858,14 10.5,14 h 3 A 0.5,0.5 135 0 0 14,13.5 v -1 A 0.5,0.5 45 0 0 13.5,12 L 12,12 A 0.57280917,0.57280917 41.117417 0 1 11.432443,11.504585 L 10.067557,1.4954151 A 0.57280917,0.57280917 41.117417 0 0 9.5,1 h -4 A 0.57280917,0.57280917 138.88258 0 0 4.9324434,1.4954151 Z" />
+</svg>

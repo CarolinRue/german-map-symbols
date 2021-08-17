@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Kapelle-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title12">Kapelle_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kapelle_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path2"
+     style="stroke-width:0.000722158"
+     d="M 4.8786721,1.3246206 C 6.1123744,2.582605 6.3633966,4.9328404 6.4542983,6.0037924 6.4776275,6.2786434 6.278033,6.4730495 6.0040798,6.4391628 4.2666737,6.2242542 2.5741259,6.0073557 1.3459451,4.8621936 1.14476,4.6746076 1.0017553,4.72569 1.0014392,5.0017252 0.9991662,6.9869432 0.9998642,8.0145714 1.0016086,9.9997895 1.0018511,10.275825 1.1439721,10.325725 1.3409472,10.132495 2.6020749,8.8953437 4.1768919,8.6925392 6.0019371,8.540769 6.2769847,8.5178962 6.482675,8.7234749 6.4579299,8.9983979 6.2940165,10.819508 6.0152428,12.389141 4.7684092,13.648901 c -0.1940872,0.1961 -0.1438345,0.340126 0.1322002,0.342047 1.9964912,0.01388 3.1016468,0.0078 5.0981798,0.0073 0.2760248,-6.8e-5 0.3256548,-0.141613 0.1322148,-0.33838 C 8.8909735,12.398511 8.7000528,10.824416 8.5418591,8.998277 8.5180402,8.7233181 8.7223503,8.5184711 8.9973882,8.5419868 10.814045,8.6973105 12.380872,8.9005928 13.638701,10.132802 13.835778,10.325865 13.980904,10.275847 13.98418,9.9998305 14.0077,8.0182456 13.9983,6.9833521 13.99735,5.001643 13.997208,4.7256532 13.854974,4.6754472 13.657731,4.8684072 12.393768,6.1049278 10.824345,6.3088007 8.9974113,6.4607708 8.7223635,6.4836503 8.5172443,6.2780931 8.5403835,6.0030293 8.6939509,4.1775229 8.8908535,2.6004012 10.13087,1.3405127 10.324391,1.1438901 10.274801,1.0020389 9.9987582,1.0017695 8.0135658,0.9998317 6.979418,1.0055287 5.0005615,1.0000034 4.7245339,0.99923274 4.6856284,1.1277774 4.8786721,1.3246206 Z" />
+</svg>

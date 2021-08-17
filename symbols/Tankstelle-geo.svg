@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Tankstelle-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <title
+     id="title11">Tankstelle_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tankstelle_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path8"
+     style="fill:#000000;stroke-width:1.19577"
+     d="M 7.0002304,1.0156985 C 3.8070619,1.2583721 1.2583689,3.8070668 1.0156981,7.0002361 c -0.0209309,0.2754156 -0.0209309,0.7241151 4e-7,0.9995338 0.2426736,3.1931681 2.7913683,5.7418611 5.9845377,5.9845321 0.2754155,0.02093 0.7241151,0.02093 0.9995338,0 3.193168,-0.242674 5.741861,-2.791369 5.984532,-5.9845379 0.02093,-0.2754155 0.02093,-0.724115 -10e-7,-0.9995338 C 13.741628,3.8070619 11.192933,1.2583689 7.9997642,1.0156981 7.7243487,0.99476727 7.2756491,0.99476722 7.0002304,1.0156985 Z M 4.4985142,3.4980189 h 6.0029718 a 0.50024766,0.50024765 0 0 1 0.500248,0.5002476 V 4.9987618 A 0.50024766,0.50024765 0 0 1 10.501486,5.4990095 H 9.0007432 A 0.50024766,0.50024765 0 0 0 8.5004955,5.9992572 V 12.002229 A 0.50024766,0.50024765 0 0 1 8.0002478,12.502476 H 6.9997525 A 0.50024766,0.50024765 0 0 1 6.4995049,12.002229 V 5.9992572 A 0.50024766,0.50024765 0 0 0 5.9992572,5.4990095 H 4.4985142 A 0.50024766,0.50024765 0 0 1 3.9982666,4.9987618 V 3.9982665 A 0.50024766,0.50024765 0 0 1 4.4985142,3.4980189 Z" />
+</svg>

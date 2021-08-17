@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Zeltplatz-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title11">Zeltplatz_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zeltplatz_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect8-4-3"
+     style="display:inline;fill:#000000;stroke-width:0.272362"
+     d="M 6.1107228,1.0576632 5.8653479,1.1761044 A 0.46621242,0.45715802 0 0 0 5.676129,1.8289119 l 0.8073815,1.2641298 a 0.8722528,0.85531261 0 0 1 0.02219,0.8712128 L 1.0384962,13.557952 A 0.30299744,0.29711287 0 0 0 1.3029978,14 h 2.4368247 1.0328264 4.6335979 1.0328262 3.257842 a 0.30308566,0.29719937 0 0 0 0.264616,-0.442111 L 8.502166,3.9722296 A 0.86395413,0.84717512 0 0 1 8.528248,3.1032962 L 9.3542983,1.8344819 A 0.46539343,0.45635494 0 0 0 9.1704432,1.1808844 L 8.9259307,1.0607954 A 0.57299729,0.561869 0 0 0 8.1863388,1.2608576 L 7.7878996,1.8729281 A 0.32649556,0.32015463 0 0 1 7.2359722,1.87058 L 6.8481132,1.2632057 A 0.5719779,0.56086941 0 0 0 6.1107228,1.0576632 Z m 1.5080267,8.321635 1.4992558,2.6584138 A 0.30453561,0.29862117 0 0 1 8.8515062,12.480849 H 5.8861648 A 0.30453561,0.29862117 0 0 1 5.6196656,12.037712 L 7.1189215,9.3792982 a 0.28558341,0.28003704 0 0 1 0.499828,0 z" />
+</svg>

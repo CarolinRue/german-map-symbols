@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Gaststätte_Restaurant-geo-alt2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title19">Restaurant_geometrisch_alt2</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Restaurant_geometrisch_alt2</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path2-1-6-0"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00212571;stroke-opacity:1"
+     d="M 2.3611711,1.4893669 C 1.9634079,3.6593716 2.2654965,6.0359086 2.1360105,7.9835333 2.1177472,8.2582362 2.0674435,8.7028624 2.0188011,8.974696 c -0.128247,0.7166975 -0.3414438,1.41052 -0.5157792,2.115357 -0.065681,0.265548 -0.1574635,0.701728 -0.2118512,0.972531 -0.096783,0.481895 -0.2065582,1.050173 -0.2823847,1.446165 -0.0519418,0.271257 0.1317703,0.491249 0.4097089,0.491249 h 9.8318721 c 0.277938,0 0.461935,-0.220061 0.410304,-0.491396 -0.07535,-0.39599 -0.184486,-0.964196 -0.280953,-1.446035 -0.05422,-0.270806 -0.146464,-0.709094 -0.21342,-0.977088 -0.04111,-0.164507 -0.0844,-0.328374 -0.12815,-0.492119 -0.0713,-0.266819 0.09655,-0.483204 0.374487,-0.483204 h 0.736682 c 0.277938,0 0.740057,0.0073 0.991062,-0.106297 0.369624,-0.1672563 0.662668,-0.5186633 0.79018,-0.958979 0.07661,-0.2645692 0.06925,-0.7175668 0.06925,-0.9937091 V 4.5265615 c 0,-0.2761425 0.0042,-0.7288438 -0.0734,-0.9931053 C 13.796229,3.0905624 13.503444,2.7368267 13.129727,2.5697355 12.87817,2.4572631 12.416176,2.4650388 12.138237,2.4650388 h -1.197578 c -0.277938,0 -0.523474,-0.2230414 -0.559364,-0.4968588 C 10.360267,1.8077523 10.336179,1.6481418 10.308134,1.4896655 10.260017,1.2177621 9.9816457,1 9.7037069,1 H 2.9673697 C 2.6894311,1 2.4109632,1.2177249 2.3611711,1.4893669 Z m 8.6415329,2.2883667 h 1.146613 c 0.277938,0 0.707109,0.064317 0.70711,0.2361328 v 4.0499995 c 0,0.2761424 -0.03092,0.7361312 -0.203858,0.7361328 h -1.516915 c -0.277938,0 -0.536159,-0.1419755 -0.556435,-0.3199218 L 10.507929,4.2776626 A 0.49484224,0.49164418 0 0 1 11.0027,3.7777336 Z" />
+</svg>
