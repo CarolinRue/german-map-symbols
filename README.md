@@ -5,4 +5,4 @@ This repository contains a set of adaptable symbols specially for maps of the Ge
 The symbols can be downloaded directly as SVGs. They can be modified or used as they are.
 
 # License
-Recommended reference: © Carolin Rünger (CC0)
+Recommended reference: © Carolin Rünger and Mathias Gröbe (CC0)
