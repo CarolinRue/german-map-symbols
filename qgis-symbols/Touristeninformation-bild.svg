@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Touristeninformation-bild.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title13">Touristeninformation_bildhaft</title>
+  <path
+     id="path2"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="m 6.9696048,1.0364939 c -1.6588588,0.2329807 -2.9674745,1.5525645 -3.18812,3.2148197 -0.036319,0.2736093 -0.036312,0.7237031 -1.3e-5,0.9972418 0.2219059,1.6722296 1.5446151,2.9963763 3.2150599,3.218576 0.2733227,0.036357 0.7229426,0.036355 0.9961924,1.8e-5 C 9.6631875,8.2450089 10.985936,6.9209012 11.2079,5.2486903 11.24422,4.9750786 11.24422,4.5249833 11.207918,4.2514446 10.986013,2.579215 9.6633036,1.2550683 7.9928589,1.0328686 7.7195361,0.99651164 7.4522952,1 7.4673803,1 Z M 7.4420166,2 c 0.4400075,3.895e-4 0.7964214,0.3523348 0.7999103,0.7875862 2.39e-5,0.00297 3.05e-5,0.00779 1.48e-5,0.010753 -0.00228,0.4322751 -0.3528375,0.7829644 -0.7883485,0.7894602 -0.00639,9.54e-5 -0.016755,1.091e-4 -0.023142,3.09e-5 -0.4348147,-0.00532 -0.7855331,-0.3538935 -0.7902739,-0.784879 -6.06e-5,-0.00551 -4.84e-5,-0.014447 2.71e-5,-0.019953 C 6.646158,2.3490391 7.0027168,1.9992223 7.4420166,2 Z M 6.5367237,4.0410369 c 0.4019675,3.17e-5 0.8038283,2.73e-5 1.2057565,8.3e-6 0.2758507,-1.31e-5 0.4994719,0.223828 0.4994719,0.4999704 v 2.2909068 a 0.23233881,0.23258446 0 0 0 0.039022,0.1290154 c 0.053154,0.074816 0.096559,0.080712 0.37576,0.083952 0.00152,1.76e-5 0.00443,4.96e-5 0.0065,7.17e-5 A 0.22662448,0.22686409 0 0 1 8.8428797,7.3085937 0.22240397,0.22263912 0 0 1 8.5931438,7.5 H 6.3221074 A 0.22632321,0.2265625 0 0 1 6.0957842,7.2734375 0.24451407,0.24477259 0 0 1 6.3572265,7.046875 c 1.2e-6,0 0,0 0,0 0.2762311,0 0.3348499,-0.014241 0.3717943,-0.093376 0.0016,-0.00342 0.00294,-0.010015 0.0031,-0.014682 0.025176,-0.7554319 0.017945,-1.5169238 0.019215,-2.2750595 7e-6,-0.00415 -0.00187,-0.010333 -0.00419,-0.013818 l -0.033131,-0.049736 c -9.368e-4,-0.00141 -0.00244,-0.0037 -0.00337,-0.00511 -0.05295,-0.080772 -0.099918,-0.1009772 -0.25587,-0.1009527 A 0.2050194,0.20523617 0 0 1 6.3143027,4.2402343 c 0,-0.1100275 0.099582,-0.1992071 0.222421,-0.1991974 z M 5.1339101,8.8671875 C 4.3802566,9.2505662 4.1019098,9.3754882 3.7382928,9.5248322 3.4830105,9.6296811 3.0646648,9.7891336 2.8141887,9.9047394 2.2809787,10.150839 2.0511891,10.362598 1.8600109,10.732951 c -0.00873,0.01691 -0.019901,0.04556 -0.025162,0.06389 C 1.508549,11.933047 1.4979299,12.549083 1.5002086,13.500003 1.5008699,13.776143 1.7246535,14 2.0005042,14 H 12.988886 c 0.27585,0 0.512024,-0.223696 0.51111,-0.499804 -0.0036,-1.087783 -0.1932,-2.202274 -0.554034,-3.041212 -0.159621,-0.20556 -0.35013,-0.353955 -0.673913,-0.5099186 C 12.02357,9.8293752 11.603744,9.6732726 11.349125,9.5670503 10.938731,9.3958416 10.512294,9.2042439 10.217725,9.0570958 10.141158,9.0188478 10.018531,8.9537034 9.9429754,8.9132941 9.7719711,8.8218367 9.5545237,8.971469 9.4648653,9.2326183 L 8.4940418,12.06035 A 0.18500939,0.185205 0 0 1 8.147159,12.06855 L 7.9972603,11.691183 a 1.1423,1.1435077 0 0 1 0.030892,-0.915719 L 8.2782047,10.25188 A 0.31482871,0.31516158 0 0 0 7.9941672,9.8007812 H 6.9952233 A 0.31993907,0.32027734 0 0 0 6.7045944,10.254975 l 0.2495773,0.542784 a 1.1692595,1.1704957 0 0 1 0.025421,0.919259 l -0.1384818,0.35112 a 0.18498109,0.18517667 0 0 1 -0.3468546,-0.0074 L 5.515862,9.2322412 C 5.4256005,8.9713001 5.2531164,8.804933 5.1339101,8.8671875 Z" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Touristeninformation_bildhaft</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Museum-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title10">Museum_geometrisch</title>
+  <path
+     id="rect859"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="M 7.4124345,1.3066421 1.3998612,5.7551243 A 0.17915484,0.17231512 0 0 0 1.5090939,6.0640205 H 2.5625681 A 0.52673709,0.50662747 0 0 1 3.0893052,6.570648 v 7.092785 a 0.52673709,0.50662747 0 0 0 0.526737,0.506628 h 8.4277938 a 0.52673709,0.50662747 0 0 0 0.526737,-0.506628 V 6.570648 A 0.52673709,0.50662747 0 0 1 13.09731,6.0640205 h 1.053474 A 0.17915484,0.17231512 0 0 0 14.260017,5.7551243 L 8.2474435,1.3066421 a 0.68475822,0.6586157 0 0 0 -0.835009,0 z m -1.651893,4.7573784 h 0.4888713 a 0.98438045,0.94679904 0 0 1 0.8189788,0.4215008 l 0.4693058,0.6768808 a 0.35115805,0.33775163 0 0 0 0.5843623,-7.75e-5 L 8.5909776,6.4855988 A 0.98405408,0.94648513 0 0 1 9.4098354,6.0640205 H 9.8993366 A 0.52676559,0.50665487 0 0 1 10.426102,6.570648 l 3.42e-4,6.07953 A 0.5267086,0.50660006 0 0 1 9.8997356,13.156805 H 9.4102345 A 0.52671146,0.50660281 0 0 1 8.883523,12.650178 L 8.8837025,9.1037853 A 0.16194302,0.15576041 0 0 0 8.5877916,9.0162669 L 8.1064626,9.6979311 A 0.3511202,0.33771522 0 0 1 7.5221657,9.6930738 L 7.06514,9.0211243 A 0.1570011,0.15100716 0 0 0 6.776754,9.1037853 L 6.7765745,12.650178 A 0.52676272,0.50665212 0 0 1 6.2498118,13.156805 H 5.7609405 A 0.52676559,0.50665487 0 0 1 5.2341749,12.650178 l -3.42e-4,-6.07953 A 0.5267086,0.50660006 0 0 1 5.7605415,6.0640205 Z" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Museum_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

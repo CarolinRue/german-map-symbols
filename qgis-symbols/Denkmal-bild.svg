@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Denkmal-bild.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <title
+     id="title20">Denkmal_bildhaft</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Denkmal_bildhaft</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect17-6-9"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="M 7.0131799,1.080293 C 6.7143086,1.206963 6.4748637,1.4467349 6.3483602,1.7460189 6.2414314,1.9989926 6.2549202,2.4590973 6.3066252,2.73035 c 0.018085,0.094875 0.038927,0.1886146 0.060088,0.2760721 0.064564,0.2668423 0.051562,0.6877547 -0.035207,0.9502483 C 5.7431102,5.736686 5.6324858,7.6358223 5.4177107,9.4977929 5.3860517,9.772258 5.1335642,9.9944041 4.8574218,9.9944041 H 4.4277343 a 0.5,0.50069951 0 0 0 -0.5,0.5006989 v 1.502099 a 0.5,0.50069951 0 0 1 -0.5,0.500699 H 3 a 0.5,0.50069951 0 0 0 -0.5,0.5007 V 13.4993 A 0.5,0.50069951 0 0 0 3,14 h 9 a 0.5,0.50069951 0 0 0 0.5,-0.5007 v -0.500699 a 0.5,0.50069951 0 0 0 -0.5,-0.5007 h -0.427734 a 0.5,0.50069951 0 0 1 -0.5,-0.500699 v -1.502099 a 0.5,0.50069951 0 0 0 -0.5,-0.5006989 h -0.429688 c -0.2761424,0 -0.5242849,-0.222848 -0.5539628,-0.497775 C 9.3857299,7.6171634 9.1857376,5.7662833 8.6501561,3.9625874 8.5714972,3.6976853 8.5692217,3.2717944 8.634097,3.0030675 8.655231,2.915526 8.6760164,2.8217784 8.6940194,2.7269594 8.7451742,2.4575368 8.7585673,1.9990155 8.6516572,1.7460604 8.5251641,1.446771 8.2857272,1.2069911 7.9868613,1.0803106 7.7342411,0.97323219 7.2657816,0.9732333 7.0131799,1.080293 Z" />
+</svg>

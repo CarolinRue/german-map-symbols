@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Touristeninformation-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <title
+     id="title13">Touristeninformation_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Touristeninformation_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path15"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="m 6.9987449,1.0156991 c -3.1923779,0.2426736 -5.74044,2.7913682 -5.9830507,5.9845375 -0.0209257,0.2754156 -0.0209257,0.7241151 4e-7,0.9995338 0.2426135,3.1931686 2.7906773,5.7418616 5.9830561,5.9845326 0.2753473,0.02093 0.7239358,0.02093 0.9992864,0 3.3554569,-0.255071 5.9990899,-3.057782 6.0019609,-6.4787226 2e-6,-0.00308 2e-6,-0.00808 0,-0.011166 C 13.997098,4.0734747 11.35349,1.2707654 7.9980313,1.015698 7.7226839,0.9947672 7.2740954,0.9947672 6.9987449,1.0156991 Z m 0.9411497,2.074978 C 8.2706068,3.2219658 8.5348214,3.4826227 8.6686445,3.8094039 8.7726922,4.0634771 8.7726911,4.5309856 8.6686623,4.785039 8.5348507,5.1118263 8.2706447,5.3724919 7.9399383,5.503792 7.6847181,5.6051218 7.2183142,5.6051206 6.9631142,5.5038093 6.632402,5.3725206 6.3681874,5.1118637 6.2343642,4.7850825 6.1303165,4.5310093 6.1303176,4.0635008 6.2343464,3.8094474 6.3681581,3.4826601 6.6323641,3.2219945 6.9630704,3.0906944 7.2182906,2.9893646 7.6846945,2.9893658 7.9398946,3.0906771 Z M 5.9980208,6.3393036 c 0.7554017,5.25e-5 1.5107847,3.47e-5 2.2661848,-4.9e-6 0.2762107,-1.45e-5 0.5030517,0.2239205 0.5066635,0.500176 l 0.054417,4.1622433 c 8.608e-4,0.06584 0.026463,0.172343 0.083218,0.20423 0.073282,0.04117 0.2020203,0.04598 0.5365907,0.0498 5.766e-4,7e-6 0.00152,1.8e-5 0.00211,2.6e-5 a 0.33467309,0.33475596 0 0 1 0.3017427,0.36074 v 0.08101 A 0.30462206,0.30469749 0 0 1 9.4443261,12.00223 H 5.6502067 A 0.40237294,0.40247257 0 0 1 5.2478338,11.599757 0.38750613,0.38760208 0 0 1 5.6776277,11.259674 c 0.3526563,0 0.4875118,-0.01252 0.558457,-0.07927 0.038929,-0.03663 0.052646,-0.124639 0.052181,-0.178508 L 6.2570093,7.3789237 C 6.2563943,7.3076531 6.221936,7.2014027 6.1652441,7.1585524 6.0970524,7.1070099 6.0309011,7.0939241 5.9613103,7.0929948 5.7646365,7.0903686 5.605347,6.9208244 5.6053464,6.7222204 5.6053458,6.5107193 5.7811515,6.3392886 5.9980208,6.3393036 Z" />
+</svg>

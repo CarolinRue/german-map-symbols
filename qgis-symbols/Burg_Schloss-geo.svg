@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Burg_Schloss-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="39.220856"
+     inkscape:cx="8.2773008"
+     inkscape:cy="5.8680764"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9" />
+  </sodipodi:namedview>
+  <title
+     id="title11">Burg/Schloss_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Burg/Schloss_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect31-9"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="m 6.1394632,1.3141822 v 5.6738985 c 0,0.2803927 -0.2331403,0.5565984 -0.5036565,0.6621096 -1.1177028,0.4359447 -1.9179316,1.4068319 -2.1022826,2.5506147 -0.044622,0.27685 -0.044679,0.734624 -2.891e-4,1.01149 0.2272821,1.417564 1.3949838,2.53769 2.8727835,2.755755 0.2886991,0.0426 0.7659593,0.0426 1.0545926,1.9e-5 1.4778168,-0.218016 2.6455519,-1.338109 2.8728869,-2.755657 0.04441,-0.276928 0.04435,-0.73474 -2.65e-4,-1.01157 C 10.148896,9.0570556 9.3486774,8.0861607 8.2309817,7.6502045 7.9604467,7.5446825 7.7272888,7.2684734 7.7272888,6.9880807 V 6.1670412 A 0.89040083,0.85409795 0 0 1 8.192233,5.416755 l 3.163724,-1.650712 a 0.27576865,0.26452518 0 0 0 -0.0086,-0.4691096 L 6.6131368,1.0330056 A 0.32753636,0.31418224 0 0 0 6.1394632,1.3141822 Z" />
+</svg>

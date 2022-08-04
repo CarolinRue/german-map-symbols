@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Ruine-bild.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title11">Ruine_bildhaft</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ruine_bildhaft</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect42-6"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="m 2.4886722,1.5 v 2 A 0.49897662,0.5 0 0 0 2.9876488,4 H 4.4845787 C 4.7601559,4 4.9318261,4.2177736 4.8682317,4.4864626 4.2481951,7.1061449 3.722529,9.3937686 3.1028891,12.013543 3.0393386,12.282228 2.7642494,12.5 2.4886722,12.5 H 1.490719 c -0.2755772,0 -0.49449775,0.223816 -0.4906696,0.499933 0.00226,0.16269 0.00451,0.337481 0.00677,0.500168 C 1.0106479,13.776199 1.2385318,14 1.514109,14 h 11.952048 c 0.275577,0 0.504668,-0.22382 0.51915,-0.499568 0.03586,-0.682691 0.05148,-0.91634 -0.520017,-0.980047 C 13.19165,12.489881 12.743781,12.5 12.468204,12.5 A 0.49897662,0.5 0 0 1 11.969228,12 0.49897662,0.5 0 0 0 11.470251,11.5 0.49897662,0.5 0 0 1 10.971274,11 V 10.560926 A 0.55977798,0.56092606 0 0 0 10.411496,10 0.46956109,0.47052414 0 0 1 9.9733214,9.5 v -2 A 0.49897662,0.5 0 0 0 9.4743448,7 0.49897662,0.5 0 0 1 8.9753682,6.5 v -1 A 0.49897662,0.5 0 0 0 8.4763916,5 0.49897662,0.5 0 0 1 7.977415,4.5 V 2.5099328 A 0.50888907,0.50993278 0 0 0 7.4685259,2 0.49404525,0.49505852 0 0 1 6.9794617,1.5 0.49897662,0.5 0 0 0 6.4804851,1 H 5.7320202 A 0.49897662,0.5 0 0 0 5.2330436,1.5 0.49897662,0.5 0 0 1 4.734067,2 0.49897662,0.5 0 0 1 4.2350903,1.5 0.49897662,0.5 0 0 0 3.7361137,1 H 2.9876488 A 0.49897662,0.5 0 0 0 2.4886722,1.5 Z M 7.9697919,9.5750029 C 8.7427874,9.8197005 9.3360828,10.657233 9.4532449,12.0006 9.4772299,12.27561 9.2509454,12.5 8.9753682,12.5 H 7.977415 5.9815085 C 5.7059313,12.5 5.4796468,12.275612 5.5036313,12.000605 5.620792,10.657238 6.2140856,9.8197046 6.9870796,9.5750045 c 0.2617497,-0.08286 0.7209652,-0.08286 0.9827123,-1.6e-6 z" />
+</svg>
