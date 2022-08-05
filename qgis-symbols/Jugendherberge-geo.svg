@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Jugendherberge-geo.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="55.466667"
+     inkscape:cx="7.5"
+     inkscape:cy="7.5"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <title
+     id="title11">Jugendherberge_geometrisch</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Jugendherberge_geometrisch</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carolin Rünger</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect859-4"
+     fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"
+     d="M 7.0824958,1.1365811 1.0699223,5.5850636 A 0.17915484,0.17231513 0 0 0 1.179155,5.8939599 h 1.0534744 a 0.52673709,0.50662751 0 0 1 0.526737,0.5066275 V 13.493372 A 0.52673709,0.50662751 0 0 0 3.2861035,14 h 8.4277935 a 0.52673709,0.50662751 0 0 0 0.526737,-0.506628 V 6.4005874 a 0.52673709,0.50662751 0 0 1 0.526737,-0.5066275 h 1.053474 A 0.17915484,0.17231513 0 0 0 13.930078,5.5850636 L 7.9175047,1.1365811 a 0.68475822,0.65861577 0 0 0 -0.8350089,0 z M 5.9197889,5.8935521 H 7.471194 9.6069485 a 0.52673709,0.50662751 0 0 1 0.5267365,0.5066275 v 2.16702 c 0,0.2798027 4.1e-5,0.7334524 -1.36e-4,1.013255 -7.4e-5,0.1155887 -1.76e-4,0.2142842 -3.07e-4,0.2985344 -4.28e-4,0.27585 -0.01551,0.727137 -0.06398,1.002873 -0.04649,0.264434 -0.1183257,0.500412 -0.2162057,0.712909 -0.117611,0.255334 -0.4067234,0.62055 -0.6241607,0.806362 -0.018178,0.01553 -0.215845,0.176287 -0.4756218,0.300974 -0.2244469,0.107732 -0.4693761,0.184506 -0.7318675,0.230878 -0.2858445,0.0505 -0.7607383,0.06312 -1.0491347,0.02857 C 6.5437837,12.910215 6.1442236,12.778784 5.7651481,12.567956 5.5135008,12.427998 5.141631,12.14538 4.9346214,11.948953 c -0.04058,-0.0385 0.064693,-0.261839 0.2317511,-0.491028 0.1057336,-0.145058 0.2246686,-0.307637 0.3308792,-0.452317 0.1674197,-0.22806 0.3490462,-0.38296 0.3937266,-0.338267 0.5617533,0.450673 0.8852279,0.610778 1.1152015,0.66099 0.8079629,0.03765 1.225965,-0.212526 1.3938261,-0.439679 0.09828,-0.132996 0.1456649,-0.49326 0.1626921,-0.772583 A 12.603943,12.122754 0 0 0 8.575081,9.4063096 V 7.9200621 A 0.52673709,0.50662751 0 0 0 8.0483439,7.4134346 H 7.6028783 5.9197889 A 0.41322017,0.39744439 0 0 1 5.3930519,7.1700159 V 6.4001796 a 0.52673709,0.50662751 0 0 1 0.526737,-0.5066275 z" />
+</svg>
