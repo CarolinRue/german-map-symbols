@@ -7,4 +7,4 @@ This repository contains a set of universal symbols, especially for maps of the 
 Download the releases. It contains two folders, one with SVGs for the Maki editor and another suitable for use with QGIS. You are free to edit and redistribute the symbols. For practical reasons, the set uses the CC0 Licence. Credits are always welcome: © German map symbols 2022
 
 ## Contributing
-Feel free to fork and add more icons! We are happy to provide more symbols. Please use for a new symbol the ```template.svg```. Inkscape is the best choice for editing. Make sure to use only 15 x 15 drawing area and only paths. You can convert any other type of SVG geometry type into paths. 
+Feel free to work and add more icons! We are happy to provide more symbols. Please use for a new symbol the ```template.svg```. Inkscape is the best choice for editing. Make sure to use only 15 x 15 drawing area and only paths. You can convert any other type of SVG geometry type into paths. 
